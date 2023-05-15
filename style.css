@@ -1,0 +1,12 @@
+body {
+    font-size: 15px;
+    background-image: linear-gradient(to right, orange, white, green);
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  text-align: center;
+}
